@@ -35,7 +35,7 @@ Ziel: Nutzer können alle Aufgaben anzeigen und erledigen
 
 Elemente:
 
-Header: "Aufgaben anzeigen"  
+Header: "Alle Aufgaben"  
 Liste mit allen Aufgaben  
 Checkbox um eine einzelne Aufgabe zu erledigen  
 Aktionen um Aufgaben zu verlängern, usw.  
