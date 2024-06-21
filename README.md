@@ -8,7 +8,6 @@ Ziel: Übersicht aller abgeschlossenen Aufgaben anzeigen.
 
 Elemente:
 
-Header: App-Name__
 Statistikbereich: Gesamtzahl der abgeschlossenen Aufgaben, tägliche/wöchentliche/monatliche Statistiken  
 Aufgabenliste: Liste der abgeschlossenen Aufgaben, sortiert nach Datum  
 Fertigkeitsgrad-Anzeige: Fortschrittsbalken oder Abzeichen  
