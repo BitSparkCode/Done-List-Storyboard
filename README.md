@@ -22,10 +22,10 @@ Ziel: Nutzer können neue abgeschlossene Aufgaben hinzufügen.
 
 Elemente:
 
-Header: "Aufgabe hinzufügen"
-Eingabefeld: Textfeld für die Beschreibung der Aufgabe
-Datumsauswahl: Kalender oder Datumseingabefeld
-Button: "Speichern"
+Header: "Aufgabe hinzufügen"  
+Eingabefeld: Textfeld für die Beschreibung der Aufgabe  
+Datumsauswahl: Kalender oder Datumseingabefeld  
+Button: "Speichern"  
 
 ![Storyboard Neue Aufgabe](https://github.com/BitSparkCode/Done-List-Storyboard/blob/main/Storyboard/Storyboard_NeueAufgabe.png)
 
@@ -35,10 +35,10 @@ Ziel: Nutzer können alle Aufgaben anzeigen und erledigen
 
 Elemente:
 
-Header: "Aufgaben anzeigen"
-Liste mit allen Aufgaben
-Checkbox um eine einzelne Aufgabe zu erledigen
-Aktionen um Aufgaben zu verlängern, usw.
+Header: "Aufgaben anzeigen"  
+Liste mit allen Aufgaben  
+Checkbox um eine einzelne Aufgabe zu erledigen  
+Aktionen um Aufgaben zu verlängern, usw.  
 
 ![Storyboard Neue Aufgabe](https://github.com/BitSparkCode/Done-List-Storyboard/blob/main/Storyboard/Storyboard_AlleAufgaben.png)
 
