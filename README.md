@@ -8,11 +8,11 @@ Ziel: Übersicht aller abgeschlossenen Aufgaben anzeigen.
 
 Elemente:
 
-Header: App-Name
-Statistikbereich: Gesamtzahl der abgeschlossenen Aufgaben, tägliche/wöchentliche/monatliche Statistiken
-Aufgabenliste: Liste der abgeschlossenen Aufgaben, sortiert nach Datum
-Fertigkeitsgrad-Anzeige: Fortschrittsbalken oder Abzeichen
-Navigation: Buttons für "Aufgabe hinzufügen"
+Header: App-Name__
+Statistikbereich: Gesamtzahl der abgeschlossenen Aufgaben, tägliche/wöchentliche/monatliche Statistiken__
+Aufgabenliste: Liste der abgeschlossenen Aufgaben, sortiert nach Datum__
+Fertigkeitsgrad-Anzeige: Fortschrittsbalken oder Abzeichen__
+Navigation: Buttons für "Aufgabe hinzufügen"__
 
 ![Storyboard Übersicht](https://github.com/BitSparkCode/Done-List-Storyboard/blob/main/Storyboard/Storyboard_%C3%9Cbersicht.png)
 
